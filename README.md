@@ -42,7 +42,7 @@ The dataset contains customer-level information including:
 ## Visualizations
 
 ### Age Distribution
-![Age Distribution](Age Distribution hist & Boxplot.png)
+![Age Distribution](age_distribution.png)
 
 This plot shows that customer age is evenly distributed across different age groups.  
 There are no extreme outliers, indicating a balanced dataset.
@@ -50,7 +50,7 @@ There are no extreme outliers, indicating a balanced dataset.
 ---
 
 ### Age vs Monthly Spend
-![Age vs Monthly Spend](Age vs Monthly Spend.png)
+![Age vs Monthly Spend](age_vs_monthly_spend.png)
 
 The scatter plot shows no clear relationship between age and spending.  
 Spending behavior appears independent of age.
@@ -58,7 +58,7 @@ Spending behavior appears independent of age.
 ---
 
 ### Monthly Spend Distribution
-![Monthly Spend](Monthly Spend Hist & Boxplot.png)
+![Monthly Spend](monthly_spend.png)
 
 The distribution is right-skewed, meaning most customers spend less.  
 A small group of customers contributes significantly higher spending.
@@ -66,7 +66,7 @@ A small group of customers contributes significantly higher spending.
 ---
 
 ### Gender and Education Distribution
-![Gender & Education](Number of Education & Gender.png)
+![Gender & Education](gender_education.png)
 
 Customers are fairly evenly distributed across gender and education categories.  
 This indicates no strong imbalance in demographic representation.
@@ -74,7 +74,7 @@ This indicates no strong imbalance in demographic representation.
 ---
 
 ### Spending by Education Level
-![Spending by Education](Spending By Education Level.png)
+![Spending by Education](education_spend.png)
 
 Spending patterns are similar across all education levels.  
 This suggests education does not significantly impact spending behavior.
