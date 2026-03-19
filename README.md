@@ -50,7 +50,7 @@ There are no extreme outliers, indicating a balanced dataset.
 ---
 
 ### Age vs Monthly Spend
-
+![Age vs Monthly Spend](Age vs Monthly Spend.png)
 
 The scatter plot shows no clear relationship between age and spending.  
 Spending behavior appears independent of age.
@@ -58,7 +58,7 @@ Spending behavior appears independent of age.
 ---
 
 ### Monthly Spend Distribution
-![Monthly Spend](monthly_spend.png)
+![Monthly Spend](Monthly Spend Hist & Boxplot.png)
 
 The distribution is right-skewed, meaning most customers spend less.  
 A small group of customers contributes significantly higher spending.
@@ -66,7 +66,7 @@ A small group of customers contributes significantly higher spending.
 ---
 
 ### Gender and Education Distribution
-![Gender Education](gender_education.png)
+![Gender & Education](Number of Education & Gender.png)
 
 Customers are fairly evenly distributed across gender and education categories.  
 This indicates no strong imbalance in demographic representation.
@@ -74,7 +74,7 @@ This indicates no strong imbalance in demographic representation.
 ---
 
 ### Spending by Education Level
-![Education Spend](education_spend.png)
+![Spending by Education](Spending By Education Level.png)
 
 Spending patterns are similar across all education levels.  
 This suggests education does not significantly impact spending behavior.
@@ -131,4 +131,4 @@ https://raj2534567-droid.github.io/Customer-Insights-A-Statistical-Investigation
 
 ## Author
 Rajeshwari Patel  
-Data Analyst
+Aspiring Data Analyst
