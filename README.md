@@ -125,8 +125,7 @@ Businesses should focus on data-driven and behavior-based strategies for better 
 ---
 
 ## Live Project
-https://raj2534567-droid.github.io/Customer-Insights-A-Statistical-Investigation/
-
+ https://raj2534567-droid.github.io/Customer-Insights---A-Statistical-Investigation/
 ---
 
 ## Author
