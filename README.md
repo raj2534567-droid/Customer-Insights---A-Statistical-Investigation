@@ -42,7 +42,7 @@ The dataset contains customer-level information including:
 ## Visualizations
 
 ### Age Distribution
-![Age Distribution](age_distribution.png)
+![Age Distribution](Age Distribution hist & Boxplot.png)
 
 This plot shows that customer age is evenly distributed across different age groups.  
 There are no extreme outliers, indicating a balanced dataset.
@@ -50,7 +50,7 @@ There are no extreme outliers, indicating a balanced dataset.
 ---
 
 ### Age vs Monthly Spend
-![Age vs Spend](age_vs_spend.png)
+
 
 The scatter plot shows no clear relationship between age and spending.  
 Spending behavior appears independent of age.
@@ -125,6 +125,7 @@ Businesses should focus on data-driven and behavior-based strategies for better 
 ---
 
 ## Live Project
+https://raj2534567-droid.github.io/Customer-Insights-A-Statistical-Investigation/
 
 ---
 
